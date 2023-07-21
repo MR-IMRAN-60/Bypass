@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/MR-IMRAN-60/ImranBypass/issues"
+		"url": "https://github.com/MR-IMRAN-60/Bypass/issues"
 	},
 	"keywords": [
 		"bot",
@@ -22,12 +22,12 @@
 		"spermlord",
 		"miraipr0ject"
 	],
-	"author": "Imran Ahmed",
+	"author": "Mohammad Nayan",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/MR-IMRAN-60/ImranBypass"
+		"url": "https://github.com/MR-IMRAN-60/Bypass"
 	},
-	"homepage": "https://github.com/MR-IMRAN-60/ImranBypass",
+	"homepage": "https://github.com/MR-IMRAN-60/Bypass",
 	"dependencies": {
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.2",
